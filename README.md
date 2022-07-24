@@ -1,4 +1,4 @@
 # Ільєнко Роман
 Мій перший сайт
 
-[Урок 12](http://gromacool.github.io/lesson_12/ "Мой первый сайт")
+[Урок 12](http://gromacool.github.io/lesson_12/ "Мой первый сайт") - Работа с репозиторием Github
